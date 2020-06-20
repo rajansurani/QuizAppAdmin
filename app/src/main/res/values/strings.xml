@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Quiz App Admin</string>
+    <string name="login">Login</string>
+    <string name="no_account">Do not have an Account ?</string>
+    <string name="signup">Signup</string>
+    <string name="have_account">Already have an Account ?</string>
+</resources>
